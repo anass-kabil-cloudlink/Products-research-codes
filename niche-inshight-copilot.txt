@@ -1,0 +1,12 @@
+Using this content: 
+The products begin from the number of months (e.g., 10 months). 
+The first value in the data is the number of days running,
+the next value is the likes,
+the next value is the comments, 
+and the final one is the shares.
+
+Total products: -
+ Past the page list content.
+
+Give insights about what is common between the products and the most common functionalities that they offer.
+Material made of: Product types: what they do in precise... a marketing insight as well
